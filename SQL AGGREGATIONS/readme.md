@@ -2,7 +2,7 @@
 This repo focuses on some of the sql query question and my query response to those questions. 
 
 ## **ERD AND BRIEF INFO OF THE DATABASE**
-![](/sql%20joins/schema.jpg)
+![](./sql%20joins/schema.jpg)
 
 
 # **Questions**
